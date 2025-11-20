@@ -8,7 +8,7 @@ To analyze the relationship between input and received signal of a 600nm fiber o
 
 ## EQUIPMENTS REQUIRED
 - Fiber optic trainer kit ST 2502  
-- Power supply  
+- Power supply   
 - Patch cords  
 - CRO (Cathode Ray Oscilloscope)  
 - 660 nm fiber cable  
